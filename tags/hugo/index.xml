@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on A Hugo website</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on A Hugo website</description>
+    <title>Hugo on A Hugo website</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in Hugo on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steps to create github pages website from blogdown</title>
       <link>/2023/02/24/steps-to-create-github-pages-website-from-blogdown/</link>
@@ -15,17 +15,6 @@
       <guid>/2023/02/24/steps-to-create-github-pages-website-from-blogdown/</guid>
       <description>Steps to Create   Your public/ directory should be the GIT repository. You have two possible choices for setting up this repository locally. The first choice is to follow the default structure of a Hugo website like the diagram below, and initialize the GIT repository under the public/ directory:
 source/│├── config.toml├── content/├── themes/├── ...└── public/|├── .git/├── .nojekyll├── index.html├── about/└── .</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/2020/12/01/hello-r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/2020/12/01/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.: 26.00  ## Median :15.0 Median : 36.</description>
     </item>
     
   </channel>

@@ -6,7 +6,17 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steps to create github pages website from blogdown</title>
+      <link>/2023/02/24/steps-to-create-github-pages-website-from-blogdown/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/24/steps-to-create-github-pages-website-from-blogdown/</guid>
+      <description>Steps to Create   Your public/ directory should be the GIT repository. You have two possible choices for setting up this repository locally. The first choice is to follow the default structure of a Hugo website like the diagram below, and initialize the GIT repository under the public/ directory:
+source/│├── config.toml├── content/├── themes/├── ...└── public/|├── .git/├── .nojekyll├── index.html├── about/└── .</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>/2020/12/01/hello-r-markdown/</link>
